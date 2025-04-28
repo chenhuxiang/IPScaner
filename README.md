@@ -1,4 +1,4 @@
-# IPScaner
+![image](https://github.com/user-attachments/assets/e2d5da5f-ff82-4a6e-9ede-48565ed9cf4c)# IPScaner
 局域网IP扫描工具 IPScaner.exe是一个局域网内快速搜索IP是否在线的绿色小工具，并集成了多个网络调试工具，包括IP段扫描、端口扫描、windows命令、IP地址计算器、系统端口占用查看工具等。
 
 ## 主要功能说明：
@@ -12,7 +12,13 @@
 8. Windows命令，快速打开windows常用程序，例如网络连接、卸载程序、服务等18个命令，同时支持用户DIY命令，例如自己常用的程序、文档、命令等。
 9. 备注管理，用户自定义IP地址的备注信息，支持从剪贴板导入。
 10. 关于，显示软件版本，更新说明等信息
-    
+
+![image](https://github.com/user-attachments/assets/85b33beb-9a40-44ab-877e-ffe0956eda9f)![image](https://github.com/user-attachments/assets/0f528815-ed94-420c-ad43-5153f24e624e)![image](https://github.com/user-attachments/assets/b44f89b6-e686-48d3-a50a-7f0672798d47)![image](https://github.com/user-attachments/assets/a7b404b6-632c-4e11-a242-096a989b9699)![image](https://github.com/user-attachments/assets/1741684f-4515-4aeb-bee9-c4825eb30bb2)
+
+
+
+
+
 新版软件及历史版本下载地址（此下载地址以后不再变更）：
 https://wwzn.lanzn.com/b0ukl6xij
 密码:b4nr
