@@ -21,7 +21,7 @@
 
 新版软件及历史版本下载地址（此下载地址以后不再变更）：
 https://wwzn.lanzn.com/b0ukl6xij
-密码:b4nr, 若地址被劫持，可尝试域名换为lanzv、lanzoui、lanzous
+密码:b4nr, 若地址被劫持，可尝试域名换为lanzoux、lanzoui、lanzous
 
 ## 更新说明
 ### 版本1.26更新说明
